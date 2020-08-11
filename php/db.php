@@ -4,10 +4,10 @@
 class db {
 
   protected $connection;
-	protected $query;
+  protected $query;
   protected $show_errors = TRUE;
   protected $query_closed = TRUE;
-	public $query_count = 0;
+  public $query_count = 0;
 
 	public function __construct($dbhost = 'localhost', $dbuser = 'root', $dbpass = '', $dbname = '', $charset = 'utf8') {
 		$this->connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
