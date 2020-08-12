@@ -2,7 +2,7 @@
 
 This is the official Github repository for "Schachclub Fulda"
 
-## URL
+## URL WIP
 
 ```bash
 https://www.sc-fulda.de
