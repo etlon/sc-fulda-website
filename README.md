@@ -1,6 +1,6 @@
 # Schachclub Fulda
 
-This is the official Github repository for "Schachclub Fulda"
+This is the official Github repository of "Schachclub Fulda"
 
 ## URL WIP
 
