@@ -8,6 +8,13 @@ This is the official Github repository of "Schachclub Fulda"
 https://www.sc-fulda.de
 ```
 
+## Frontend
+As frontend framework we are using Bootstrap 5
+https://getbootstrap.com/
+
+## Backend
+As backend we are using vanilla PHP with MariaDB as our database
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
