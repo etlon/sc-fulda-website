@@ -9,7 +9,7 @@ https://www.sc-fulda.de
 ```
 
 ## Frontend
-As frontend framework we are using Bootstrap 5
+As our frontend framework we are using Bootstrap 5
 https://getbootstrap.com/
 
 ## Backend
